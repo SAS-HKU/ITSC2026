@@ -30,8 +30,11 @@ The supplied `ITSC_logo.png` contains the ITSC 2026, IEEE ITSS, and IEEE marks t
 static/images/logos/itsc-itss-ieee.png
 static/images/logos/ieee-itss.png
 static/images/logos/hku-dase.svg
+static/images/logos/sas-lab.jpg
 static/images/naples/bay-of-naples.jpg
 ```
+
+The SAS Lab logo appears beside the department logo in the organizer section. Both the lab logo and lab name link to <https://github.com/SAS-HKU>.
 
 The separate supplied `ITSS.png` is used as the compact navigation logo. The Naples image is the supplied `naples.jpg`, used in the conference information block. Original source files have not been altered. Replace these copies to change the imagery; if dimensions change, update the `<img>` width/height attributes as well. Confirm image reuse permissions and any required photographer credit before public publication.
 

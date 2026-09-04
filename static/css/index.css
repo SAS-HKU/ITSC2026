@@ -797,6 +797,21 @@ svg {
   border-radius: 8px;
 }
 
+.organizer-logos {
+  display: grid;
+  grid-template-columns: minmax(64px, 100px) minmax(0, 1fr);
+  align-items: center;
+  gap: 20px;
+}
+
+.lab-logo {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: contain;
+}
+
 .department-logo {
   width: 100%;
   height: auto;
