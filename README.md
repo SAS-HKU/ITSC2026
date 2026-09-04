@@ -62,7 +62,7 @@ All portraits are displayed in **1:1 square frames**, with `object-fit: cover` a
 
 For an individual crop adjustment, add `style="--portrait-position: center 20%"` to its image. This changes only the displayed crop, not the original file.
 
-The speaker order is Chen Sun, Chen Lv, Yukun Lu, then one intentionally blank slot. The former Guodong Yin profile and talk have been removed from the public page. To fill the blank `.speaker-slot`, remove `aria-hidden="true"` and the `speaker-slot` class, then add the new speaker's portrait and a `.speaker-details` block following the existing cards. Example image markup:
+The speaker order is Chen Sun, Chen Lv, Yukun Lu, and Xiao Wang. The former Guodong Yin slot has been replaced by Xiao Wang. Each card has expandable abstract and biography sections in `.speaker-materials`. Replace the relevant `To be added.` paragraph when content is confirmed. Yukun Lu's presentation title remains blank. Chen Lv's abstract and biography come from the supplied Word document; Xiao Wang's abstract comes from the supplied text. Her photograph uses a CSS-only square crop; the original image is unchanged. Example image markup:
 
 ```html
 <img class="speaker-photo" src="static/images/people/new-speaker.jpg"
