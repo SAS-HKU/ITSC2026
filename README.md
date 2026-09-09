@@ -2,7 +2,7 @@
 
 Homepage for the workshop at IEEE ITSC 2026, Naples, Italy.
 
-**15:15–17:45 (CEST) · Tuesday 15 September 2026 · Aula 5 Room**
+**15:15–17:45 (CEST) · Tuesday 15 September 2026 · Convention Bureau Stazione Marittima · Aula 5 Room**
 
 Organizer: **Safe-Autonomous-Systems Lab, Department of Data and Systems Engineering, The University of Hong Kong**. Primary organizer and first speaker: **Prof. Chen Sun**. Workshop contact: <c87sun@hku.hk>.
 
@@ -62,7 +62,7 @@ All portraits are displayed in **1:1 square frames**, with `object-fit: cover` a
 
 For an individual crop adjustment, add `style="--portrait-position: center 20%"` to its image. This changes only the displayed crop, not the original file.
 
-The speaker order is Chen Sun, Chen Lv, Yukun Lu, and Xiao Wang. The former Guodong Yin slot has been replaced by Xiao Wang. Each card has expandable abstract and biography sections in `.speaker-materials`. Replace the relevant `To be added.` paragraph when content is confirmed. Yukun Lu's presentation title remains blank. Chen Lv's abstract and biography come from the supplied Word document; Xiao Wang's abstract comes from the supplied text. Her photograph uses a CSS-only square crop; the original image is unchanged. Example image markup:
+The speaker order is Chen Sun, Chen Lyu, Yukun Lu, and Xiao Wang. Each card shows the confirmed presentation title directly; abstracts and biographies are intentionally omitted. Xiao Wang's photograph uses a CSS-only square crop; the original image is unchanged. Example image markup:
 
 ```html
 <img class="speaker-photo" src="static/images/people/new-speaker.jpg"

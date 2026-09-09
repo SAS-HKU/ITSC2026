@@ -667,34 +667,6 @@ svg {
   line-height: 1.55;
 }
 
-.speaker-materials {
-  grid-column: 1 / -1;
-  min-width: 0;
-}
-
-.speaker-materials details {
-  padding: 12px 0;
-  border-top: 1px solid var(--line);
-}
-
-.speaker-materials summary {
-  cursor: pointer;
-  color: var(--blue);
-  font-size: 0.85rem;
-  font-weight: 600;
-}
-
-.speaker-materials p {
-  margin: 14px 0 0;
-  font-size: 0.9rem;
-  line-height: 1.75;
-  overflow-wrap: anywhere;
-}
-
-.speaker-materials .content-pending {
-  color: var(--muted);
-}
-
 .speaker-details > a {
   width: max-content;
   margin-top: 18px;
