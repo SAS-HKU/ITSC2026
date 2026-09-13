@@ -4,7 +4,7 @@ Homepage for the workshop at IEEE ITSC 2026, Naples, Italy.
 
 **15:15–17:45 (CEST) · Tuesday 15 September 2026 · Convention Bureau Stazione Marittima · Aula 5 Room**
 
-Organizer: **Safe-Autonomous-Systems Lab, Department of Data and Systems Engineering, The University of Hong Kong**. Primary organizer and first speaker: **Prof. Chen Sun**. Workshop contact: <c87sun@hku.hk>.
+Organizer: **Safe Autonomy and Interactive Learning (SAIL) Lab, Department of Data and Systems Engineering, The University of Hong Kong**. Primary organizer and first speaker: **Prof. Chen Sun**. Workshop contact: <c87sun@hku.hk>.
 
 ## Preview locally
 
@@ -30,11 +30,11 @@ The supplied `ITSC_logo.png` contains the ITSC 2026, IEEE ITSS, and IEEE marks t
 static/images/logos/itsc-itss-ieee.png
 static/images/logos/ieee-itss.png
 static/images/logos/hku-dase.svg
-static/images/logos/sas-lab.jpg
+static/images/logos/sail-lab.jpg
 static/images/naples/bay-of-naples.jpg
 ```
 
-The SAS Lab logo appears beside the department logo in the organizer section. Both the lab logo and lab name link to <https://github.com/SAS-HKU>.
+The SAIL Lab logo appears beside the department logo in the organizer section. Both the lab logo and lab name link to <https://hku-sas.hku.hk/>.
 
 The separate supplied `ITSS.png` is used as the compact navigation logo. The Naples image is the supplied `naples.jpg`, used in the conference information block. Original source files have not been altered. Replace these copies to change the imagery; if dimensions change, update the `<img>` width/height attributes as well. Confirm image reuse permissions and any required photographer credit before public publication.
 
